@@ -1,7 +1,7 @@
 # Python Dungeon Mini-Game
 <p align="center">
   <a>	
-    <img src="game_capture.png">
+    <img src="game_capture.PNG">
   </a>
 </p>
 Welcome to the Multiverse of Blockbuster!
